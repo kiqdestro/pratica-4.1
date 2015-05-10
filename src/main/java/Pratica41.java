@@ -26,8 +26,8 @@ public class Pratica41 {
         areaY = y.getArea();
         perimetroY = y.getPerimetro();       
         
-        System.out.println("Área do circulo: " + areaX+"\n"+"Área da elipse: " + areaY 
-        + "Perimetro do circulo: " + perimetroX + "Perimetro da elipse: " + perimetroY);
+        System.out.println("Área do circulo: " + areaX+"\n"+"Área da elipse: " + areaY
+        +"\n"+ "Perimetro do circulo: " + perimetroX +"\n"+ "Perimetro da elipse: " + perimetroY);
 }
     
     
